@@ -12,7 +12,7 @@ The benchmarks of each algorithm should be displayed once each of the python fil
 
 System Information 
 
-Platform: Windows 10
+# # Platform: Windows 10
 
 Processor: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
 
