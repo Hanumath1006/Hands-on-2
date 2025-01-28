@@ -19,15 +19,15 @@ RAM(GB): 15.74
 
 Here are the outputs when run on this machine 
 
-Insertion Sort
+# Insertion Sort
 ![image](https://github.com/user-attachments/assets/d6fe579c-2de0-4955-b6e8-431520474346)
 ![image](https://github.com/user-attachments/assets/7959d4b8-be0a-4726-9193-a1b76472924c)
 
-Selection Sort
+# Selection Sort
 ![image](https://github.com/user-attachments/assets/458444db-1828-4d9b-ac95-9cb9160a822a)
 ![image](https://github.com/user-attachments/assets/f5f76efa-4b9b-4f5a-be0d-f36b2056180c)
 
-Bubble Sort
+# Bubble Sort
 ![image](https://github.com/user-attachments/assets/3c8fa971-b6f9-4ec9-bb1c-33ab1d60c7a0)
 ![image](https://github.com/user-attachments/assets/5b7234b3-8d4f-4563-9c24-81542e951786)
 
