@@ -13,8 +13,11 @@ The benchmarks of each algorithm should be displayed once each of the python fil
 System Information 
 
 Platform: Windows 10
+
 Processor: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+
 CPU count(logical): 8
+
 RAM(GB): 15.74
 
 Here are the outputs when run on this machine 
