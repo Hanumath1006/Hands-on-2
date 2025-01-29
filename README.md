@@ -2,9 +2,7 @@
 
 Question 2 - Argue Selection Sort Correctness
 
-The array is sorting unsorted arrays and returning sorted arrays. The algorithm is doing what it is intended to do which can be seen in the outputs. An example is also included in the code for the user to see the behavior of the Selection Sort algorithm.  
-
-
+The array is sorting unsorted arrays and returning sorted arrays. Invariant - at the beginning of the i-th iteration, the first i elements of the array contain the smallest i elements in sorted order. Base case - before the first iteration (i = 0), the first i elements (i.e, an empty set) are trivially sorted. Since there are no elements to compare yet, our invariant is true initially. Assume that at the start of iteration i, the first i elements are sorted. The algorithm selects the smallest element from the remaining unsorted elements. This element is swapped with the first unsorted element at index i, ensuring that the first i + 1 elements remain sorted. We maintain the invariant since we always place the smallest remaining element at index i. At the last iteration, (i = n -1, the loop invariant tells us that the first n -1 elements are correctly sorted. Since the last element is the only remaining unsorted element, and it must be the largest, it is already in the correct position. Thus, the tnire array is sorted when the algorithm terminates. The algorithm does what it is intended to do. 
 
 Question 3 - Benchmark the runtime of each algorithm
 
